@@ -4,6 +4,6 @@
 
 2. Run the BabylonianSquareRootAlgorithm class (it is already written for you).
 
-3. Run all the tests in the BabylonianTest test suite.
+3. Run all the tests in the BabylonianTest test suite. (optional)
 
 Look for the TODO comments for code to complete.
