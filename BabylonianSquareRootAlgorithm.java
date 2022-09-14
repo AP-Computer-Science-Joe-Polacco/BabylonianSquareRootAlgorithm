@@ -7,7 +7,7 @@
  * 4. Go back to step 2 for as many iterations as necessary. The more you repeat steps
  * 2 and 3, the closer guess will become to the square root of n.
  * Write a program that inputs a double for n, iterates through the Babylonian algorithm
- * five times, and outputs the answer as a double to two decimal places. Your
+ * five times, and outputs the answer as a double. Your
  * answer will be most accurate for small values of n.
  * 
  * author Joe Polacco 
