@@ -16,10 +16,9 @@
 
 import java.util.Scanner;
 
-public class BabylonianSquareRootAlgorithm
-{
-    public static void main(String[] args){
-        
+public class BabylonianSquareRootAlgorithm {
+    public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number: ");
         double n = scanner.nextDouble();
@@ -27,8 +26,7 @@ public class BabylonianSquareRootAlgorithm
         double guess = babylonian.squareRoot(n);
         System.out.println("The square root of " + n + " is approximately " + guess);
         System.out.println("The actual square root is " + Math.sqrt(n));
-       
+
     }
-         
-        
+
 }
